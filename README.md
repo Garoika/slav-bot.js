@@ -1,4 +1,3 @@
-# Slavick | Discord.js
 # Настройка бота
 Вставить токен в token.js
 
