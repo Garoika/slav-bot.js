@@ -1,4 +1,4 @@
 # Slavick | Discord.js
 Вставить токен в token.js
 
-[YouTube]https://www.youtube.com/watch?v=iTMWJmXbtwk] 
+**[YouTube]:** __https://www.youtube.com/watch?v=iTMWJmXbtwk__
