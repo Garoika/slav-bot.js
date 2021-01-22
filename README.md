@@ -5,4 +5,3 @@
 
 **[Discord Server]:** __https://discord.gg/RZZk2TY__
 
-**[VK]:** __https://vk.com/6ses002__
